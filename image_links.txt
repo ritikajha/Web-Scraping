@@ -1,0 +1,5 @@
+/assets/themes/lab/images/logo/LOGO.png
+/assets/themes/lab/images/banner/banner.jpeg
+/assets/themes/lab/images/banner/group_1.jpeg
+/assets/themes/lab/images/banner/group.jpeg
+/assets/themes/lab/images/banner/group_2.jpeg
